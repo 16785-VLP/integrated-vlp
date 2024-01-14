@@ -1,24 +1,51 @@
 # Site settings
-course_name: 16-785 Integrated Intelligence in Robotics, Vision-and-Language Planning
-course_topic_title: "Film Making using AI & Robotics"
-course_topic: "Guillermo del Toro’s Pinocchio (2022), an Oscar nominated stop motion animation movie, took 15 years to make with a budget estimated over 35 million dollars. Another celebrated motion picture, Loving Vincent (2017), was fully hand painted by 152 artists and its production took 7 years, costing 5.5 million dollars. In this class, we will develop and experiment ideas to make such films using AI and robotics technologies. Course topics include language models, vision-language models, planning, and learning in the context of robotics. Examples of class projects include painted movies (robot painting), stop motion movies (manipulation), animation (text to image/video generation), directing (direction following), and robotic cinematography.  The final projects will be premiered at the end of the semester. "
+course_name: "16-785 Integrated Intelligence in Robotics: Vision-and-Language Planning"
 
-course_description: "This course covers the topics on building cognitive intelligence for robotic systems. Cognitive capabilities constitute high-level, humanlike intelligence that exhibits reasoning or problem-solving skills. Such capabilities as semantic perception, language understanding, and task planning can be built on top of low-level robot autonomy that enables autonomous control of physical platforms. The topics generally bridge across multiple technical areas, for example, vision-language intersection and language-action/plan grounding.
-This course is composed of 50% lectures and 50% seminar classes. Since this is a project-oriented course, we will put a special emphasis on learning research skills, e.g., problem formulation, literature review, ideation, evaluation planning, results analysis, and hypothesis verification."
-course_prereq: "There are no explicit prerequisites for this class, but a general background knowledge in AI and machine learning is assumed."
+course_topic_title: "Film Making using AI & Robotics"
+
+course_topic: "Guillermo del Toro’s Pinocchio (2022), an Oscar nominated stop motion animation movie, 
+took 15 years to make with a budget estimated over 35 million dollars. Another celebrated motion picture, 
+Loving Vincent (2017), was fully hand painted by 152 artists and its production took 7 years, costing 5.5 
+million dollars. In this class, we will develop and experiment ideas to make such films using AI and 
+robotics technologies. Course topics include language models, vision-language models, planning, and 
+learning in the context of robotics. Examples of class projects include painted movies (robot painting), 
+stop motion movies (manipulation), animation (text to image/video generation), directing (direction following),
+and robotic cinematography.  The final projects will be premiered at the end of the semester. "
+
+course_description: "This course covers the topics on building cognitive intelligence for robotic 
+systems. Cognitive capabilities constitute high-level, humanlike intelligence that exhibits reasoning
+or problem-solving skills. Such capabilities as semantic perception, language understanding, and task
+planning can be built on top of low-level robot autonomy that enables autonomous control of physical 
+platforms. The topics generally bridge across multiple technical areas, for example, vision-language 
+intersection and language-action/plan grounding. This course is composed of 50% lectures and 50% seminar 
+classes. Since this is a project-oriented course, we will put a special emphasis on learning research 
+skills, e.g., problem formulation, literature review, ideation, evaluation planning, results analysis, 
+and hypothesis verification."
+
+course_prereq: "There are no explicit prerequisites for this class, but a general background knowledge 
+in AI and machine learning is assumed."
 
 course_goals:
-    header: "In this course, we will strive to answer the following research questions and beyond towards the goal of developing cognitive capabilities on robots."
+    header: "In this course, we will strive to answer the following research questions and beyond 
+    towards the goal of developing cognitive capabilities on robots."
     goals:
         - goal: "How can we make robots to perform tasks following natural language instructions?"
-        - goal: "How can we develop robots that can describe in natural language what they perceive through vision or explain what they are doing and why?"
-        - goal: "How can we fuse information coming in multiple modalities, e.g., language and images, to understand context-aware, semantic meanings of sensory data?"
-        - goal: "How do we measure the quality of information translated between different modalities, e.g., how do we measure the quality of language description given an image? What are the limitations and shortcomings of existing metrics?"
-        - goal: "How can we make use of semantic information digested from raw sensory inputs in the process of planning to solve a problem/task?"
-        - goal: "How do we measure the performance of computer vision algorithms outside benchmark datasets, e.g., on robots?"
-        - goal: "How should learned knowledge be stored? Do we need a universal representation for knowledge?"
+        - goal: "How can we develop robots that can describe in natural language what they perceive 
+        through vision or explain what they are doing and why?"
+        - goal: "How can we fuse information coming in multiple modalities, e.g., language and images, 
+        to understand context-aware, semantic meanings of sensory data?"
+        - goal: "How do we measure the quality of information translated between different modalities, 
+        e.g., how do we measure the quality of language description given an image? What are the 
+        limitations and shortcomings of existing metrics?"
+        - goal: "How can we make use of semantic information digested from raw sensory inputs in the 
+        process of planning to solve a problem/task?"
+        - goal: "How do we measure the performance of computer vision algorithms outside benchmark 
+        datasets, e.g., on robots?"
+        - goal: "How should learned knowledge be stored? Do we need a universal representation for 
+        knowledge?"
         - goal: "How can we make robots learn to improve over time, e.g., by learning new skills?"
-    footer: "Using these research questions, we will learn to follow basic steps of conducting research through class projects."
+    footer: "Using these research questions, we will learn to follow basic steps of conducting research 
+    through class projects."
 
 
 course_time: "Mondays, Wednesdays 11:00AM - 12:20PM"

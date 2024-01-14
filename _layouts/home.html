@@ -6,27 +6,18 @@ layout: default
 
     <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
 
-    <p><b>Time:</b>{{ site.course_time }}</p>
-    <p><b>Location:</b>{{ site.course_location }}</p>
-    <p><b>Office Hours:</b>{{ site.course_office_hours }}</p>
-    <p><b>Canvas:</b>{{ site.course_canvas }}</p>
+    <p><b>Time: </b>{{ site.course_time }}</p>
+    <p><b>Location: </b>{{ site.course_location }}</p>
+    <p><b>Office Hours: </b>{{ site.course_office_hours }}</p>
+    <p><b>Canvas: </b>{{ site.course_canvas }}</p>
 
-
-    {% include announcements.html %}
-    <br />
+    <br> <hr style="height:0.5px;border-top: 1px dotted rgb(228, 227, 227);"> <br>
     
     <h2>Course Description</h2>
     <p>{{ site.course_description }}</p>
     
     <h2>Pre-requisites</h2>
     <p>{{ site.course_prereq }}</p>
-    
-    <div class="topic-box" style="margin-top:30px">
-        <h2> <b>Spring 2024 Project:</b> {{site.course_topic_title}}</h2>
-        <img src="{{site.data.header.header | prepend: site.baseurl }}">
-        <br />
-        <p>{{ site.course_topic }}</p>
-    </div>
 
     <h2>Course Goals</h2>
     <p>{{ site.course_goals.header }}</p>
@@ -37,12 +28,25 @@ layout: default
     </ul>
     <p>{{ site.course_goals.footer }}</p>
 
-    <br> <hr> <br>
+    <br> <hr style="height:0.5px;border-top: 1px dotted rgb(228, 227, 227);"> <br>
+    
+    <div class="topic-box" style="margin-top:30px">
+        <h2> <b>Spring 2024 Project:</b> {{site.course_topic_title}}</h2>
+        <img src="{{site.data.header.header | prepend: site.baseurl }}">
+        <br />
+        <br />
+        <p>{{ site.course_topic }}</p>
+    </div>
+
+    <br> <hr style="height:0.5px;border-top: 1px dotted rgb(228, 227, 227);"> <br>
 
     <h2>Policies</h2>
     <h3>Academic Integrity</h3>
-    <p>We formally follow the guidelines in the <a href="http://www.cmu.edu/policies/student-and-student-life/academic-integrity.html">
-        CMU's academic integrity policy </a></p>
+    <p>
+        We formally follow the guidelines in the 
+        <a href="http://www.cmu.edu/policies/student-and-student-life/academic-integrity.html">
+        CMU's academic integrity policy </a>
+    </p>
     
     <h3>Reasonable Person Principle (RPP)</h3>
     <p>We informally follow Reasonable Person Principle (RPP), a base culture of CMU's School of Computer 
@@ -66,7 +70,7 @@ layout: default
     
     {{ content }}
 
-    <br> <hr> <br>
+     <br> <hr style="height:0.5px;border-top: 1px dotted rgb(228, 227, 227);"> <br>
 
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
     <h2>Previous Offerings</h2>
@@ -80,12 +84,6 @@ layout: default
     <br>
     <div>
         <div style="width:35%; float: left">
-            <!-- <h2>Instructors</h2> -->
-            <!-- <div class="image--cover-container">
-                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p>{{site.data.people.instructor.name}}</p>
-            </div> -->
-
             <div class="profile-pic-gallary ">
                 <h2>Instructors</h2>
                 {% for ins in site.data.people.instructors %}
