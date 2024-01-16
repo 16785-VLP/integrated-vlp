@@ -16,6 +16,13 @@ layout: default
     <h2>Course Description</h2>
     <p>{{ site.course_description }}</p>
     
+    <div class="topic-box" style="margin-top:30px">
+        <h2> <b>Spring 2024 Project:</b> {{site.course_topic_title}}</h2>
+        <img src="{{site.data.header.header | prepend: site.baseurl }}">
+        <br />
+        <p>{{ site.course_topic }}</p>
+    </div>
+
     <h2>Pre-requisites</h2>
     <p>{{ site.course_prereq }}</p>
 
@@ -30,16 +37,6 @@ layout: default
 
     <br> <hr style="height:0.5px;border-top: 1px dotted rgb(228, 227, 227);"> <br>
     
-    <div class="topic-box" style="margin-top:30px">
-        <h2> <b>Spring 2024 Project:</b> {{site.course_topic_title}}</h2>
-        <img src="{{site.data.header.header | prepend: site.baseurl }}">
-        <br />
-        <br />
-        <p>{{ site.course_topic }}</p>
-    </div>
-
-    <br> <hr style="height:0.5px;border-top: 1px dotted rgb(228, 227, 227);"> <br>
-
     <h2>Policies</h2>
     <h3>Academic Integrity</h3>
     <p>

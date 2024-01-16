@@ -1,26 +1,30 @@
 # Site settings
 course_name: "16-785 Integrated Intelligence in Robotics: Vision-and-Language Planning"
 
-course_topic_title: "Film Making using AI & Robotics"
+course_topic_title: "Filmmaking using AI & Robotics"
 
-course_topic: "Guillermo del Toro’s Pinocchio (2022), an Oscar nominated stop motion animation movie, 
+course_topic: "<p>Guillermo del Toro’s <i>Pinocchio (2022)</i>, an Oscar nominated stop motion animation movie, 
 took 15 years to make with a budget estimated over 35 million dollars. Another celebrated motion picture, 
-Loving Vincent (2017), was fully hand painted by 152 artists and its production took 7 years, costing 5.5 
+<i>Loving Vincent (2017)</i>, was fully hand painted by 152 artists and its production took 7 years, costing 5.5 
 million dollars. In this class, we will develop and experiment ideas to make such films using AI and 
-robotics technologies. Course topics include language models, vision-language models, planning, and 
-learning in the context of robotics. Examples of class projects include painted movies (robot painting), 
+robotics technologies. Course topics include <b>language models, vision-language models, planning, and 
+learning in the context of robotics</b>.</p> <p>Examples of class projects include painted movies (robot painting), 
 stop motion movies (manipulation), animation (text to image/video generation), directing (direction following),
-and robotic cinematography.  The final projects will be premiered at the end of the semester. "
+and robotic cinematography.  The final projects will be premiered at the end of the semester. </p> "
 
-course_description: "This course covers the topics on building cognitive intelligence for robotic 
-systems. Cognitive capabilities constitute high-level, humanlike intelligence that exhibits reasoning
-or problem-solving skills. Such capabilities as semantic perception, language understanding, and task
-planning can be built on top of low-level robot autonomy that enables autonomous control of physical 
-platforms. The topics generally bridge across multiple technical areas, for example, vision-language 
-intersection and language-action/plan grounding. This course is composed of 50% lectures and 50% seminar 
-classes. Since this is a project-oriented course, we will put a special emphasis on learning research 
-skills, e.g., problem formulation, literature review, ideation, evaluation planning, results analysis, 
-and hypothesis verification."
+course_description: "<p>This is a project-oriented seminar course that covers interdisciplinary topics 
+on cognitive intelligence in robotic systems. Cognitive abilities constitute high-level, humanlike 
+intelligence that exhibits reasoning or problem-solving skills. Such abilities as semantic perception,
+use of language, and task planning can be built on top of low-level robot autonomy. The topics covered 
+generally bridge across multiple technical areas, for example, vision-language intersection and 
+language-action/plan grounding.</p> <p><b>The project theme in Spring 2024 is filmmaking</b> that presents 
+various robotics and machine learning challenges ranging from content generation such as scenario 
+generation or scene/video synthesis/editing to robotics automation such as autonomous camera control 
+or autonomous stop-motion control. The class will study both recent and seminal works in the field 
+of intelligent robotics. The learning objectives of class projects will also put a special emphasis 
+on research skills, e.g., problem formulation, literature review, ideation, evaluation planning, 
+results analysis, and hypothesis verification. <u>The course is discussion intensive, and thus attendance 
+is required.</u></p>"
 
 course_prereq: "There are no explicit prerequisites for this class, but a general background knowledge 
 in AI and machine learning is assumed."
