@@ -4,13 +4,9 @@ title: Materials
 permalink: /materials/
 ---
 
-## Papers
+## Reading Material
 
-* Llama: Open and efficient foundation language models [[Paper](https://arxiv.org/abs/2302.13971)]
-* Segment Anything [[Paper](https://arxiv.org/abs/2304.02643)] | [[Code](https://github.com/facebookresearch/segment-anything)]
-
-## Useful Books
-
+* [[Seminar Reading List](https://docs.google.com/document/d/1iUs1URws1MndxgFXqkZYSkFngcqn2BnD4EmoZvbyQs4/edit?usp=sharing)]
 * Dive into Deep Learning [[Book](https://arxiv.org/abs/2106.11342)]
 
 ## Tools and Tutorials
