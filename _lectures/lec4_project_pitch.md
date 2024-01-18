@@ -2,12 +2,10 @@
 type: lecture
 date: 2024-01-31
 title: "Lecture 4: Project Pitching"
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec2.jpg
+tldr: "Details to be released soon!"
+thumbnail: /static_files/presentations/stay_tuned.gif
 links: 
     - url: https://google.com
       name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+Suggested Readings to be released soon!

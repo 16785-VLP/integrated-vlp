@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2024-01-24 
+date: 2024-01-24
 description: 'Student Presentations'
 hide_from_announcments: true
 ---
