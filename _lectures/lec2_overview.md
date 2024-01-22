@@ -10,5 +10,5 @@ links:
 ---
 **Suggested Readings:**
 - [LLaMA](https://arxiv.org/abs/2302.13971)
-- [Llama 2](https://arxiv.org/abs/2307.09288)
+- [Segment Anything](https://arxiv.org/abs/2304.02643)
 - [ChatGPT for Robotics](https://arxiv.org/abs/2306.17582)

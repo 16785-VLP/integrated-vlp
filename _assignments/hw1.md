@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2024-01-29T4:00:00+4:30
+date: 2024-01-19
 title: 'Reading Assignment #1'
 pdf: https://canvas.cmu.edu/courses/39025/assignments/688915
 # attachment: /static_files/assignments/asg.zip 

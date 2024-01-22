@@ -5,5 +5,5 @@ description: 'Student Presentations'
 hide_from_announcments: true
 ---
 **Papers:**
-- Presentation 1: [Llama](https://arxiv.org/abs/2302.13971) + [Llama2](https://arxiv.org/abs/2307.09288)
+- Presentation 1: [Segment Aything](https://arxiv.org/abs/2304.02643) 
 - Presentation 2: [ChatGPT for Robotics](https://arxiv.org/abs/2306.17582)
