@@ -7,7 +7,7 @@ pdf: https://canvas.cmu.edu/courses/39025/assignments/688915
 # solutions: /static_files/assignments/asg_solutions.pdf 
 due_event: 
     type: due
-    date: 2024-01-31T23:59:00+3:30
+    date: 2024-01-24T23:59:00+3:30
     description: 'Assignment #1 due'
 ---
 Please read at least one paper from each paper group. For each paper you read, submit brief answers for the following: 
