@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-01-31
+date: 2024-02-05
 title: "Lecture 4: Project Pitching"
 tldr: "Details to be released soon!"
 thumbnail: /static_files/presentations/stay_tuned.gif

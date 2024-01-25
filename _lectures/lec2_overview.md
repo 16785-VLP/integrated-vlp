@@ -5,7 +5,7 @@ title: "Lecture 2: Course Overview and Project Brainstorming"
 tldr: "Finalize course overview details and initial project brainstorming activity."
 thumbnail: /static_files/presentations/lec2.png
 links: 
-    - url: https://google.com
+    - url: https://canvas.cmu.edu/courses/39025/files/10680798?module_item_id=5727648
       name: slides
 ---
 **Suggested Readings:**
