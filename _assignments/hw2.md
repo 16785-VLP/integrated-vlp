@@ -2,7 +2,6 @@
 type: assignment
 date: 2024-01-25
 title: 'Reading Assignment #2'
-pdf: https://canvas.cmu.edu/courses/39025/assignments/691041
 due_event: 
     type: due
     date: 2024-01-31T23:59:00+3:30
