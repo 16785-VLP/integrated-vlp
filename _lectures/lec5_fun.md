@@ -1,8 +1,8 @@
 ---
 type: lecture
 date: 2024-02-19
-title: "Lecture 5: Learning with intrinsic motivation, curiosity, and fun"
-tldr: "Details to be released soon"
+title: "Lecture 5: AI Maker Space"
+tldr: "We'll visit the [AI Maker Space](https://www.cs.cmu.edu/initiatives/ai-maker-space/)"
 thumbnail: /static_files/presentations/stay_tuned.gif
 ---
-SUggested readings to be released soon!
+We'll visit CMU's [AI Maker Space](https://www.cs.cmu.edu/initiatives/ai-maker-space/).
